@@ -21,4 +21,15 @@ Game is currently hosted on free heroku account and can take some time to load.
 - [ ] Authentication
 - [ ] Official launch
 
-`I might publish the code in the near future`
+# Technologies
+Game is created in `React` and `Node` js.
+
+### Some of the packages used in the project:
+- Express
+- Socket io
+- React spring
+- Jest
+- Moment
+- Axios
+
+`I might publish the source code in the near future`
