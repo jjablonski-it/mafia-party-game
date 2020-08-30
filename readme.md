@@ -20,3 +20,5 @@ Game is currently hosted on free heroku account and can take some time to load.
 - [x] Implement game
 - [ ] Authentication
 - [ ] Official launch
+
+`I might publish the code in the near future`
