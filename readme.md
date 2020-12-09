@@ -31,5 +31,5 @@ Game is created in `React` and `Node` js.
 - Jest
 - Moment
 - Axios
-
-`I might publish the source code in the near future`
+  
+>I **will** publish the source code in the near future
